@@ -10,5 +10,12 @@
 
 ![Screenshot 2023-11-29 175926](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/fb29eb56-5cc3-4d2c-92cc-3f71f467ef18)
 
+![Screenshot 2023-11-29 180114](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8cdcd323-74a1-43b1-bb0e-29909066caad)
+
+![Screenshot 2023-11-29 180211](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/33d30bee-97f5-4ac2-b8c0-80250ec3d241)
+
+![Screenshot 2023-11-29 180502](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/df8b5510-41c9-47bc-b2c7-273d22ae7d18)
+
+
 
 
