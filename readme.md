@@ -78,6 +78,13 @@
 ![Screenshot 2023-11-30 160901](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/e9f40d42-0704-4d62-8a75-b9784eb8e037)
 
 * Creating a collection in students db.
+
+```bash
+db.createCollection('collectionName')
+
+ex:
+db.createCollection('data')
+```
 ![Screenshot 2023-11-30 174353](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/7c2a96e0-e260-4be6-8ec8-e15f691e3258)
 
 * Now listing the dbs again and this time the **students db** will be listed.
