@@ -117,3 +117,11 @@ ex: db.dropDatabase()
 ```
 ![Screenshot 2023-11-30 180716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1bb03e0c-87b4-410c-8ea5-f1ef0e95bb4e)
 
+
+### insertOne and insertMany (data) in the db collection as document.
+***
+![Screenshot 2023-11-30 181007](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/278c3076-2dc1-46c7-b42d-8d65b4168a94)
+
+![Screenshot 2023-11-30 181121](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/cf1366e9-0ef2-4d3a-91df-59c3fc9b75d3)
+
+![Screenshot 2023-11-30 181140](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1639a3c2-4a7e-4038-bee5-526baa918be3)
