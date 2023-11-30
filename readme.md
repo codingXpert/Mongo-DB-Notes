@@ -107,3 +107,13 @@ ex: db.data.drop()
 ```
 ![Screenshot 2023-11-30 180333](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/15a77bb4-8a34-4a54-b494-a0441c81f296)
 
+
+#### Command to delete/drop a database.
+***
+```bash
+db.dropDatabase()
+
+ex: db.dropDatabase()
+```
+![Screenshot 2023-11-30 180716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1bb03e0c-87b4-410c-8ea5-f1ef0e95bb4e)
+
