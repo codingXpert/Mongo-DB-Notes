@@ -137,7 +137,6 @@ ex: db.dropDatabase()
 * **Inserting a document to the collection named 'data'**
 
 ```mongodb
-
 students> db.data.insertOne({'name': 'Vivek', age: 24})
 ```
 ![Screenshot 2023-11-30 183716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/25d9f867-4cb9-4ca5-bcbe-d0aa8725292b)
