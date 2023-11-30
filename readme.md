@@ -22,7 +22,4 @@
 
 ![Screenshot 2023-11-29 182314](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8a6a5af1-1949-4db2-b23c-ef12a96cbc63)
 
-
-
-
-
+![Screenshot 2023-11-30 150655](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/af6b681c-64e9-40f6-8c66-65b4663788c0)
