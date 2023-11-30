@@ -92,6 +92,13 @@ db.createCollection('data')
 ![Screenshot 2023-11-30 174421](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/356aefe9-51cb-4f2e-8818-2fbea62ba7b3)
 
 
+> Note: A collection is automatically created whenever we create/insert a document in it.
+Ex: 
+![Screenshot 2023-11-30 181915](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/fe1fe26d-fc8a-40dc-9aa9-ab872b03b5d7)
+
+* Here we are not creating any collection before inserting the document.
+
+
 #### Command to list all collections.
 ***
 ```bash
