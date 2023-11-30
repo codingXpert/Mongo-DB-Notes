@@ -31,7 +31,7 @@
 ![Screenshot 2023-11-30 160329](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/0db93995-b8a5-4584-a701-b3bfc9aa4a8a)
 
 
-### Working with mongoDB Shell
+### Working with mongoDB Shell.
 ***
 
 * Install the mongodb shell from [Here](https://www.mongodb.com/try/download/shell).
@@ -44,7 +44,7 @@
 
 ![Screenshot 2023-11-30 162349](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/dcfc0bde-cc61-42fb-ba83-d062708123fd)
 
-#### Command to list all the available Databases
+#### Command to list all the available Databases.
 ***
 
 * show dbs Or show databases(not db or database)
