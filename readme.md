@@ -69,3 +69,10 @@
 
  ex: use students
 ```
+
+* Example
+
+![Screenshot 2023-11-30 173148](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/b0dbd72c-c21d-4ee9-83a5-bc0668d762e2)
+
+* In the above example we are inside the students db , but when we are listing the dbs there is no db name students. This is because of👇.
+![Screenshot 2023-11-30 160901](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/e9f40d42-0704-4d62-8a75-b9784eb8e037)
