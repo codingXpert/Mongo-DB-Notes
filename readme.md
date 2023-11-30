@@ -46,6 +46,17 @@
 
 #### Command to list all the available Databases.
 ***
+```bash
 
-* show dbs Or show databases(not db or database)
+ show dbs Or show databases(not db or database)
+```
+
 ![Screenshot 2023-11-30 162954](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/4a2bdc81-39dc-4efc-a975-452f90b568f2)
+
+
+#### Command to clear the screen.
+***
+```bash
+
+ cls
+```
