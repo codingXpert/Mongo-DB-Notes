@@ -97,3 +97,13 @@ db.createCollection('data')
 ```bash
 show collections
 ```
+
+#### Command to delete/drop a collection.
+***
+```bash
+db.collectionName.drop()
+
+ex: db.data.drop()
+```
+![Screenshot 2023-11-30 180333](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/15a77bb4-8a34-4a54-b494-a0441c81f296)
+
