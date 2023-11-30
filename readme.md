@@ -140,3 +140,11 @@ ex: db.dropDatabase()
 students> db.data.insertOne({'name': 'Vivek', age: 24})
 ```
 ![Screenshot 2023-11-30 183716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/25d9f867-4cb9-4ca5-bcbe-d0aa8725292b)
+
+
+* **Inserting many documents to the collection named 'data'**
+
+```mongodb
+students> db.data.insertMany([{'name': 'Vivek', age: 24}, {'name': 'Pratap', age: 20},{'name': 'Ranjeet', age: 25}])
+```
+![Screenshot 2023-11-30 185204](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/cccf5b44-5859-40f6-b783-8744695fb25c)
