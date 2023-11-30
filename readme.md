@@ -60,3 +60,12 @@
 
  cls
 ```
+
+#### Command to use any existing db(or creating as well as using it).
+***
+```bash
+
+ use <database name>
+
+ ex: use students
+```
