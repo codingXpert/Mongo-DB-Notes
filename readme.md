@@ -96,7 +96,7 @@ db.createCollection('data')
 Ex: 
 ![Screenshot 2023-11-30 181915](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/fe1fe26d-fc8a-40dc-9aa9-ab872b03b5d7)
 
-* Here we are not creating any collection before inserting the document.
+* Here we are not creating any collection(data is the automatically created collection in this case) before inserting the document.
 
 
 #### Command to list all collections.
