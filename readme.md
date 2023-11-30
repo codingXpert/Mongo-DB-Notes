@@ -35,3 +35,12 @@
 ***
 
 * Install the mongodb shell from [Here](https://www.mongodb.com/try/download/shell).
+* After Installation Open the terminal and type mongosh to start mongodb shell.
+* we can also start the mongodb shell directly from the installed file by double clicking it and providing it the host(mongodb://localhost:27017), Like this:- 
+
+![Screenshot 2023-11-30 162323](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/234fac34-ec82-4fb9-bc95-454a46720db8)
+
+* After successful connection we will get a screen like this(where we can write our db commands):-
+
+![Screenshot 2023-11-30 162349](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/dcfc0bde-cc61-42fb-ba83-d062708123fd)
+
