@@ -152,7 +152,6 @@ students> db.data.insertMany([{'name': 'Vivek', age: 24}, {'name': 'Pratap', age
 
 #### Command to list all documents.
 ***
-
 ```bash
 
 students> db.data.find()
