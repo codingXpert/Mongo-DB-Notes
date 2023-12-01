@@ -165,3 +165,5 @@ Example.
 ***
 ![Screenshot 2023-12-01 210729](https://github.com/codingXpert/express_sequelize_mysql_crud_api/assets/101451924/827abc62-fe78-43a5-bd72-b7b25aac039a)
 
+
+
