@@ -148,3 +148,15 @@ students> db.data.insertOne({'name': 'Vivek', age: 24})
 students> db.data.insertMany([{'name': 'Vivek', age: 24}, {'name': 'Pratap', age: 20},{'name': 'Ranjeet', age: 25}])
 ```
 ![Screenshot 2023-11-30 185204](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/cccf5b44-5859-40f6-b783-8744695fb25c)
+
+
+#### Command to list all documents.
+***
+
+```bash
+
+students> db.data.find()
+```
+
+Example.
+![Screenshot 2023-12-01 203818](https://github.com/codingXpert/express_sequelize_mysql_crud_api/assets/101451924/99500dcf-6930-46f6-a253-83d70045d302)
