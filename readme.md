@@ -278,6 +278,12 @@ Example.
 ![Screenshot 2023-12-04 145952](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/d46adf04-458b-4066-ae1f-2cb3b225b600)
 
 
+> **Logical NOT**.
+![Screenshot 2023-12-04 150612](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2fc86e0e-2762-4a44-bb7a-037998d49c4f)
+
+**Example**
+![Screenshot 2023-12-04 150542](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/0d05a5e4-5c1e-4f86-8dc1-48ed4081fcf7)
+
 
 
 
