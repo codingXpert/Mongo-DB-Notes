@@ -247,6 +247,10 @@ Example.
 ![Screenshot 2023-12-04 141506](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/626e5aa0-bd0f-4885-9cc8-8e60f9bc35eb)
 
 
+#### Logical Operator.
+***
+![Screenshot 2023-12-04 144017](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/fac9ba30-1ca1-4514-9889-448fa6140b11)
+
 
 
 
