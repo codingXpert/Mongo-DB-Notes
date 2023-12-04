@@ -290,6 +290,8 @@ Example.
 ![Screenshot 2023-12-04 150858](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/de7633fd-64d9-45ec-805b-482f14ea9809)
 
 **Example:-** Fetch all the documents from sales collection whose multiplication value of quantity and price is grater than the targetPrice.
+![Screenshot 2023-12-04 153413](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/b5e6dc4f-96e1-4106-92c5-42730984906e)
+
 ![Screenshot 2023-12-04 151936](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5e8e99e2-6397-4ae1-965e-fedbfed7fdac)
 
 
