@@ -218,5 +218,17 @@ Example.
 
 ![Screenshot 2023-12-04 125315](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/739ad57a-09fb-4122-b3da-a7e9278c4704)
 
+> Note.
+* **eq:-** Equals To.
+* **ne:-** Not Equals To.
+* **gt:-** Grater Than.
+* **gte:-** Grater Than Equals To.
+* **lt:-** Less Than.
+* **lte:-** Less Than Equals To.
+* **eq:-** In Operator(Compares with multiple data).
+* **eq:-** Not In Operator.
+ 
+
+
 
 
