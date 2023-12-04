@@ -336,3 +336,11 @@ Example.
 ![Screenshot 2023-12-04 231044](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/12d56770-172d-42cc-80dd-b959e0325515)
 ![Screenshot 2023-12-04 231135](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/a5bb4948-da40-4f6b-b209-5c67c7f4c968)
 
+> Note.
+
+* Except **_id** we can use inclusion and exclusion simultaneously, i.e we want include one thing and at the same time we want to exclude the other. This is not possible, only the **_id** is an exception.
+
+* If we try to do so , we will get error.
+![Screenshot 2023-12-04 231635](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/126ca574-4bc5-4429-8b7a-659fca21e153)
+
+
