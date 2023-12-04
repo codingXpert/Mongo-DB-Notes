@@ -229,6 +229,11 @@ Example.
 * **eq:-** Not In Operator.
  
 
+#### Introduction To Cursors.
+***
+![Screenshot 2023-12-04 135622](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1760ea5a-ad30-48e0-9baf-03a1e0640e44)
+
+
 
 
 
