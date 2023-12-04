@@ -271,6 +271,12 @@ Example.
 ![Screenshot 2023-12-04 145630](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8b9f9ddc-0598-4f9e-b641-3ace03a16baa)
 
 
+> **Logical NOR(Opposite of OR)**.
+![Screenshot 2023-12-04 150113](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/b38e471d-7c7e-4ad5-996c-6316b725c15f)
+
+**Example**
+![Screenshot 2023-12-04 145952](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/d46adf04-458b-4066-ae1f-2cb3b225b600)
+
 
 
 
