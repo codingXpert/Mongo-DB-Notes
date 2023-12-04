@@ -168,5 +168,11 @@ Example.
 ![Screenshot 2023-12-01 211705](https://github.com/codingXpert/express_sequelize_mysql_crud_api/assets/101451924/9c2f404e-ceec-4013-a155-f2c6100010db)
 
 
+#### Ordered and Unordered Insert.
+***
+![Screenshot 2023-12-04 091032](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/7226ac19-90d0-44bd-978b-910bcef603a3)
+
+
+
 
 
