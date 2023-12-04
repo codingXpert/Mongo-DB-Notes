@@ -205,6 +205,13 @@ Example.
 ![Screenshot 2023-12-04 124336](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/6704e348-3e97-4652-b8c3-4b8fc3b9436c)
 
 
+#### Comparison Operator.
+***
+![Screenshot 2023-12-04 125043](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/9240929d-818b-4ab3-b459-390ab58895c4)
+
+![Screenshot 2023-12-04 125315](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/739ad57a-09fb-4122-b3da-a7e9278c4704)
+
+
 
 #### Importing And Exporting JSON in mongoDB.
 ***
