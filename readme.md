@@ -299,11 +299,19 @@ Example.
 ***
 ![Screenshot 2023-12-04 153631](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5a0af463-0bd0-4879-9ab4-cb74b8773f05)
 
-* **$Exists**
+* **$exists**
 ![Screenshot 2023-12-04 153716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/75d97681-75af-41ab-a705-87218c0766bb)
 
 **Examples**
 ![Screenshot 2023-12-04 222732](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/737694bf-8dbb-4448-ab39-0c567fd5a3e0)
 ![Screenshot 2023-12-04 222853](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/3b45b87a-b97a-4868-8bc2-986fae524b8a)
 
+
+* **$type**
+![Screenshot 2023-12-04 223604](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/e6cf8d34-cbb5-4481-9444-6d3dc42a3d4a)
+![Screenshot 2023-12-04 223628](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/4f540e6b-b609-40f1-87b0-ea47504ae5a3)
+
+**Examples**
+![Screenshot 2023-12-04 223816](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/95299099-5980-4170-ae8a-da02f8262ac6)
+![Screenshot 2023-12-04 223915](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/03a5167d-6cf8-4390-a9b5-ffb268064b57)
 
