@@ -318,3 +318,7 @@ Example.
 
 * **$size**
 ![Screenshot 2023-12-04 224858](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/4fdefb32-8bb5-42bc-90e8-6f51b84cf49a)
+
+**Example**
+![Screenshot 2023-12-04 225139](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/17e416af-fdd1-4f62-b93e-a12897ffde1a)
+
