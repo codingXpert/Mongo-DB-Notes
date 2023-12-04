@@ -195,9 +195,14 @@ Example.
 
 #### Importing JSON in mongoDB.
 
-> When the JSON is not inside an Array
+> When the JSON is not inside an Array(single document).
 ![Screenshot 2023-12-04 104641](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/16fa8942-b45d-4a6c-b995-b66bb490cf44)
 
+> When the JSON is inside an Array(multiple documents).
+![Screenshot 2023-12-04 104658](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/d81aa0fd-4be6-41d1-9a1c-c540326bf9d7)
+
+> Example.
+![Screenshot 2023-12-04 104707](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/e73bec48-a210-4174-9f12-67e6fa5749be)
 
 
 
