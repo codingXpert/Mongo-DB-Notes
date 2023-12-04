@@ -295,7 +295,7 @@ Example.
 ![Screenshot 2023-12-04 151936](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5e8e99e2-6397-4ae1-965e-fedbfed7fdac)
 
 
-#### Element Operators.
+### #Element Operators.
 ***
 ![Screenshot 2023-12-04 153631](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5a0af463-0bd0-4879-9ab4-cb74b8773f05)
 
