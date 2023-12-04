@@ -285,5 +285,12 @@ Example.
 ![Screenshot 2023-12-04 150542](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/0d05a5e4-5c1e-4f86-8dc1-48ed4081fcf7)
 
 
+#### Complex Expressions.
+***
+![Screenshot 2023-12-04 150858](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/de7633fd-64d9-45ec-805b-482f14ea9809)
+
+**Example:-** Fetch all the documents from sales collection whose multiplication value of quantity and price is grater than the target Sum.
+![Screenshot 2023-12-04 151936](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5e8e99e2-6397-4ae1-965e-fedbfed7fdac)
+
 
 
