@@ -236,6 +236,11 @@ Example.
 #### Available Cursors Methods.
 ![Screenshot 2023-12-04 135737](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/47d748ce-e3e6-4587-9a58-37709e565890)
 
+**Examples**
+![Screenshot 2023-12-04 140902](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/52e607b0-7ad5-41f1-a22f-2afaa646eb61)
+
+![Screenshot 2023-12-04 141016](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94d049d4-ab2b-4ad7-b90b-716be06d806c)
+
 
 
 
