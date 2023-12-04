@@ -178,6 +178,11 @@ Example.
 ![Screenshot 2023-12-04 091543](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/d68a9e8f-49f8-4cd9-bcaa-6a7906c4ed9f)
 
 
+#### Case Sensitivity.
+***
+![Screenshot 2023-12-04 103435](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/195796b3-fc52-403e-9b2c-0b44a955ea2b)
+
+
 
 
 
