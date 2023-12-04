@@ -187,6 +187,11 @@ Example.
 ***
 ![Screenshot 2023-12-04 103949](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/44183d9c-2656-4c5e-bf2a-0983812625c2)
 
+**Examples**
+![Screenshot 2023-12-04 104151](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2582f5f1-e667-4f16-a56b-3371c64c057e)
+
+![Screenshot 2023-12-04 104151](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8d21abf7-6247-4af1-8408-bc4b5aeae179)
+
 
 
 
