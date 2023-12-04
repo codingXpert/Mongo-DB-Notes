@@ -183,6 +183,10 @@ Example.
 ![Screenshot 2023-12-04 103435](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/195796b3-fc52-403e-9b2c-0b44a955ea2b)
 
 
+#### Finding documents in mongoDB.
+***
+![Screenshot 2023-12-04 103949](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/44183d9c-2656-4c5e-bf2a-0983812625c2)
+
 
 
 
