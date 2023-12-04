@@ -343,4 +343,10 @@ Example.
 * If we try to do so , we will get error.
 ![Screenshot 2023-12-04 231635](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/126ca574-4bc5-4429-8b7a-659fca21e153)
 
+* we can use only ({1,1,1.....}) to include or ({0,0,0.....}) to exclude at a time.
+
+* i.e, we can do only inclusion or exclusion at a time at a time like this
+![Screenshot 2023-12-04 232557](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2789517b-ad06-4475-aa5e-f836d576af45)
+
+
 
