@@ -327,4 +327,12 @@ Example.
 ***
 ![Screenshot 2023-12-04 225558](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94b20c4b-8f8f-4123-a2ea-505cb0ff7956)
 
+**Example**
+![Screenshot 2023-12-04 230421](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/0099eaa5-0a13-4eab-9a3e-4e1a9b7fefe6)
+
+> Note.
+
+* The **_id** is by-default here, we have nighter included(1) nor excluded(0) it. But if we want we can exclude it as :-
+![Screenshot 2023-12-04 231044](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/12d56770-172d-42cc-80dd-b959e0325515)
+![Screenshot 2023-12-04 231135](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/a5bb4948-da40-4f6b-b209-5c67c7f4c968)
 
