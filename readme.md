@@ -193,5 +193,11 @@ Example.
 ![Screenshot 2023-12-04 104151](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8d21abf7-6247-4af1-8408-bc4b5aeae179)
 
 
+#### Importing JSON in mongoDB.
+
+> When the JSON is not inside an Array
+![Screenshot 2023-12-04 104641](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/16fa8942-b45d-4a6c-b995-b66bb490cf44)
+
+
 
 
