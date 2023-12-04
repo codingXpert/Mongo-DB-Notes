@@ -202,7 +202,8 @@ Example.
 ![Screenshot 2023-12-04 104658](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/d81aa0fd-4be6-41d1-9a1c-c540326bf9d7)
 
 > Example.
-![Screenshot 2023-12-04 104707](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/e73bec48-a210-4174-9f12-67e6fa5749be)
+![Screenshot 2023-12-04 124336](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/6704e348-3e97-4652-b8c3-4b8fc3b9436c)
+
 
 
 #### Importing And Exporting JSON in mongoDB.
