@@ -242,5 +242,11 @@ Example.
 ![Screenshot 2023-12-04 141016](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94d049d4-ab2b-4ad7-b90b-716be06d806c)
 
 
+#### Caution while using Cursors.
+***
+![Screenshot 2023-12-04 141506](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/626e5aa0-bd0f-4885-9cc8-8e60f9bc35eb)
+
+
+
 
 
