@@ -257,8 +257,8 @@ Example.
 **Example**
 ![Screenshot 2023-12-04 144512](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/747d9177-5227-40ed-9107-a92d8d31cc5a)
 
-
-> ![Screenshot 2023-12-04 144622](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/ab16d121-b01c-4f3c-9481-779c97719fb1)
+> **What if we don't use AND Operator**
+![Screenshot 2023-12-04 144622](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/ab16d121-b01c-4f3c-9481-779c97719fb1)
 
 **Example**
 ![Screenshot 2023-12-04 144555](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/64dbe248-f978-415b-82fa-88bc68e4a2ef)
