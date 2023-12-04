@@ -299,3 +299,11 @@ Example.
 ***
 ![Screenshot 2023-12-04 153631](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/5a0af463-0bd0-4879-9ab4-cb74b8773f05)
 
+* **$Exists**
+![Screenshot 2023-12-04 153716](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/75d97681-75af-41ab-a705-87218c0766bb)
+
+**Examples**
+![Screenshot 2023-12-04 222732](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/737694bf-8dbb-4448-ab39-0c567fd5a3e0)
+![Screenshot 2023-12-04 222853](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/3b45b87a-b97a-4868-8bc2-986fae524b8a)
+
+
