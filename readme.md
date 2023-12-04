@@ -264,5 +264,14 @@ Example.
 ![Screenshot 2023-12-04 144555](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/64dbe248-f978-415b-82fa-88bc68e4a2ef)
 
 
+> **Logical OR**.
+![Screenshot 2023-12-04 145541](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/c06f94d0-ef40-4d4d-a038-8bc3644a97bf)
+
+**Example**
+![Screenshot 2023-12-04 145630](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/8b9f9ddc-0598-4f9e-b641-3ace03a16baa)
+
+
+
+
 
 
