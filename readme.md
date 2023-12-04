@@ -322,3 +322,9 @@ Example.
 **Example**
 ![Screenshot 2023-12-04 225139](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/17e416af-fdd1-4f62-b93e-a12897ffde1a)
 
+
+### #Projection: will return only the specific data of a document.
+***
+![Screenshot 2023-12-04 225558](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94b20c4b-8f8f-4123-a2ea-505cb0ff7956)
+
+
