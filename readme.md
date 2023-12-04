@@ -172,6 +172,8 @@ Example.
 ***
 ![Screenshot 2023-12-04 091032](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/7226ac19-90d0-44bd-978b-910bcef603a3)
 
+**Examples**
+![Screenshot 2023-12-04 091526](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1140bde8-02a2-48df-8263-1b5ca26b6a1b)
 
 
 
