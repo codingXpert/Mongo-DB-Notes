@@ -349,4 +349,8 @@ Example.
 ![Screenshot 2023-12-04 232557](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2789517b-ad06-4475-aa5e-f836d576af45)
 
 
+### #Embedded Document.
+***
+![Screenshot 2023-12-05 152646](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/eeef27d2-3cbf-4d99-9c2e-2defec121567)
+
 
