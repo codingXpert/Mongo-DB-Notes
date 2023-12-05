@@ -361,3 +361,11 @@ Example.
 ![Screenshot 2023-12-05 151935](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/4511d81e-dcdc-40a6-a815-28ccb38895ca)
 
 
+**Question::2**
+![Screenshot 2023-12-05 152138](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1027774e-b696-4ca8-80c8-f14032b187b1)
+
+**Ans**
+![Screenshot 2023-12-05 152018](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/3d963dac-3b31-4bc5-82e0-f91053182a83)
+
+
+
