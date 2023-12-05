@@ -375,5 +375,12 @@ Example.
 ![Screenshot 2023-12-05 161952](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94ade3d8-6c6b-4ee9-83c2-cc85fa66957e)
 
 
+**Question::4**
+![Screenshot 2023-12-05 163217](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/a48263e7-679e-4628-8b71-8fe6285fbe45)
+
+**Ans**
+![Screenshot 2023-12-05 163016](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2ca231fb-7bb1-41c1-af62-96c61f5e0370)
+
+
 
 
