@@ -375,11 +375,27 @@ Example.
 ![Screenshot 2023-12-05 161952](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94ade3d8-6c6b-4ee9-83c2-cc85fa66957e)
 
 
+### #Prerequisite Before Question 4 & 5.
+![Screenshot 2023-12-05 162117](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/64b711d7-1ff6-4586-b5b1-b9d7fcbfee41)
+
+![Screenshot 2023-12-05 164113](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/48d7566b-fde6-476e-aa45-79c124493bdd)
+
+
 **Question::4**
 ![Screenshot 2023-12-05 163217](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/a48263e7-679e-4628-8b71-8fe6285fbe45)
 
 **Ans**
 ![Screenshot 2023-12-05 163016](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/2ca231fb-7bb1-41c1-af62-96c61f5e0370)
+
+
+**Question::5 :-** Return all documents whose comments.user = Vinod and comments.text = Thanks for sharing.
+![Screenshot 2023-12-05 164725](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/dfad7858-6403-4d9d-aeea-88e17ee78c5b)
+
+**Performing the same operation using find() only**
+![Screenshot 2023-12-05 164827](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/42faae88-8b6e-41bd-af59-0a0367a193aa)
+
+
+
 
 
 
