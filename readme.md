@@ -368,4 +368,12 @@ Example.
 ![Screenshot 2023-12-05 152018](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/3d963dac-3b31-4bc5-82e0-f91053182a83)
 
 
+**Question::3**
+![Screenshot 2023-12-05 161828](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/1c869ccd-e1e2-4e7a-964f-b2f368f616ee)
+
+**Ans**
+![Screenshot 2023-12-05 161952](https://github.com/codingXpert/Mongo-DB-Notes/assets/101451924/94ade3d8-6c6b-4ee9-83c2-cc85fa66957e)
+
+
+
 
